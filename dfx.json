@@ -9,7 +9,7 @@
     "icrc1-ledger2": {
       "type": "custom",
       "wasm": "resource-icrc1/ic-icrc1-ledger.wasm",
-      "candid": "resource-icrc1/icrc1.did"
+      "candid": "resource-icrc1icrc1.did"
     },
     "icrc1_transfer_backend": {
       "type": "motoko",
